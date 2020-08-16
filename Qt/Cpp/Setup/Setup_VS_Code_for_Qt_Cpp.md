@@ -1,5 +1,13 @@
 # Setup VS Code for Qt C++
 
+## Table of Contents
+- [Why?](#why)
+- [Pre-requisites](#pre-requisites)
+- [Change Tasks](#change-tasks)
+- [Change Launcher](#change-launcher)
+- [C++ Configuration](#c-configuration)
+- [Ressources](#ressources)
+
 ## Why?
 
 Qt is an amazing framework for building applications. It is fully supported by the Qt IDE, called *Qt Creator*. The problem is, I personally, hate this IDE. I do not really know why but I really do not like coding inside of Qt Creator. That is why I used either Visual Studio or Visual Studio Code (which has a powerful extension for QML-support).
@@ -83,5 +91,6 @@ Press `F1` or `Ctrl+Shift+P` to open the commands and type *C/C++: Edit Configur
 ## Ressources
 
 - [Using VS Code for Qt Apps](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/)
+- [VS Code CMake Qt](https://retifrav.github.io/blog/2019/05/11/vscode-cmake-qt/)
 
 And so many other forum threads!
