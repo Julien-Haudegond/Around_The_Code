@@ -241,7 +241,7 @@ Inside of the *Run* menu, select *Add Configuration...* and take the *C++ (Windo
 }
 ```
 
-Because we specified the flag `-DCMAKE_BUILD_TYPE=Debug`, the executable will be inside *build/Debug*. I set `externalConsole` to *true* because I prefer.
+Because we specified the flag `-DCMAKE_BUILD_TYPE=Debug`, if CMakeLists.txt takes it in count for the output path, the executable will be inside *build/Debug*. I set `externalConsole` to *true* because I prefer.
 
 Now, you can launch the program in debug mode or not with `F5` or `Ctrl+F5`. You can also create another task to generate the release version of the program!
 
