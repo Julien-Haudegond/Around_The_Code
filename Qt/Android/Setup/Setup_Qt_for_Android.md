@@ -13,7 +13,7 @@
 - [Create a Project](#create-a-project)
 - [Run](#run)
 - [Avoid using Qt Creator?](#avoid-using-qt-creator)
-- [Ressources](#ressources)
+- [Resources](#resources)
 
 ## Why?
 
@@ -85,7 +85,7 @@ Okay, so, I am not a big fan of Qt Creator. And I do not really want to code ins
 
 We will see how it goes!
 
-## Ressources
+## Resources
 
 Very very helpful: a lot more information is available here.
 

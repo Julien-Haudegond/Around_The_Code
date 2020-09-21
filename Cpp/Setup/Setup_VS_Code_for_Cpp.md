@@ -18,7 +18,7 @@
   - [Make Task](#make-task)
 - [Launcher](#launcher)
 - [Snippets](#snippets)
-- [Ressources](#ressources)
+- [Resources](#resources)
 
 ## Why?
 
@@ -305,7 +305,7 @@ Here is an example for the tasks:
 
 As I said, it is quite difficult to write without an extension (I do not know if one exists or not for that). `\t` are used to mark tabulations and because we have sometimes double quotes inside double quotes, the escape characters are literally everywhere. :sweat_smile:
 
-## Ressources
+## Resources
 
 - [Compile C++ with VS Code and NMake](https://www.40tude.fr/compile-cpp-code-with-vscode-cmake-nmake/)
 - [Using VS Code for Qt Apps](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/)

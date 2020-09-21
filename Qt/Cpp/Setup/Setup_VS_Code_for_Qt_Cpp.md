@@ -1,12 +1,15 @@
+<!-- omit in toc -->
 # Setup VS Code for Qt C++
 
+<!-- omit in toc -->
 ## Table of Contents
+
 - [Why?](#why)
 - [Pre-requisites](#pre-requisites)
 - [Change Tasks](#change-tasks)
 - [Change Launcher](#change-launcher)
 - [C++ Configuration](#c-configuration)
-- [Ressources](#ressources)
+- [Resources](#resources)
 
 ## Why?
 
@@ -88,7 +91,7 @@ Press `F1` or `Ctrl+Shift+P` to open the commands and type *C/C++: Edit Configur
 }
 ```
 
-## Ressources
+## Resources
 
 - [Using VS Code for Qt Apps](https://www.kdab.com/using-visual-studio-code-for-qt-apps-pt-1/)
 - [VS Code CMake Qt](https://retifrav.github.io/blog/2019/05/11/vscode-cmake-qt/)
