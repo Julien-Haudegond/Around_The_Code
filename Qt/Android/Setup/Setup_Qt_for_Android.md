@@ -59,13 +59,13 @@ To create a project for Android, let us click on *New Project*:
 - Location of the project
 - Build system: CMake (for me, because I prefer CMake over QMake)
 - Version of Qt which has the Android kits
-- Kits:
+- Kits (you can change the build directories for each kit (I recommand it)):
   - Desktop Qt 5.15.0 MSVC2019 64bit
   - Android for armeabi-v7a, arm64-v8a, x86, x86_64
 - Version control
 
 Inside the *Projects* tab, we can configure the build settings.
-- The first thing to do is to change the build directory. Because it is way too long (and it can be the cause of building errors).
+- If not already done, the first thing to do is to change the build directory. Because it is way too long (and it can be the cause of building errors).
 - Then, we may need to change the architecture ABI in function of the target device.
 - In the *Build Steps* panel, we can change the Android build SDK to decide the compatible version of Android.
 
